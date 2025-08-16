@@ -71,3 +71,13 @@ Keshab Agarwal
 Sounika mondal
 
 Mangalam sharma (https://github.com/PrincipledProgrammer/)
+
+Ayush Kuril
+
+Nikhil Arimakala
+
+Shaurya Shreyas
+
+Shatakshi Shukla
+
+Shaurya Pratap
