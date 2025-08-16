@@ -15,6 +15,21 @@ The dataset has been meticulously cleaned, preprocessed, and augmented to ensure
 Model Architecture :
 This project utilizes a state-of-the-art deep learning architecture, leveraging a [mention specific architecture, e.g., Convolutional Neural Network (CNN)] for image feature extraction and classification. The model's design is optimized for performance, scalability, and interpretability.
 
+## Image - Pre-Processing
+
+The images dataset consists of snapshots of skin samples, of varying resolutions. The pre-processing step mainly consists of standardising the images and extracting lesions (if present) from them. This ensures that the Convolutional Neural Network is able to extract maximum information from the data.
+Our approach consisted of Cleaning and Normalizing the iamges followed by feature extraction.
+
+Cleaning and Normalizing:
+1. Resizing: Resized all images to a resolution of (224,224)
+
+2. Normalizing the images
+
+Feature Extraction:
+1. CLAHE: Histogram Equalization is applied on the images. This process enhances contrast in images, which is a key step in increasing brightness and visibility in certain regions.
+   
+2. Lesion Extraction: Using a series of thresholding and morphological operations (opening and dilation) to isolate the lesion area and then uses this as a mask to blacken the rest of the image.
+   
 
 ## Base Model: 
 
