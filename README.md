@@ -71,3 +71,5 @@ Keshab Agarwal
 Sounika mondal
 
 Mangalam sharma (https://github.com/PrincipledProgrammer/)
+
+Nikhil Arimakala (https://github.com/nikhilcode256/)
