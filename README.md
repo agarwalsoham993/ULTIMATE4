@@ -68,7 +68,7 @@ Soham agarwal (https://github.com/agarwalsoham993/)
 
 Keshab Agarwal (https://github.com/karl-1-bit/)
 
-Sounika mondal
+Sounika Mandal (https://github.com/Megha06-byte/)
 
 Mangalam sharma (https://github.com/PrincipledProgrammer/)
 
